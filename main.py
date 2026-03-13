@@ -1,19 +1,9 @@
-class NLPClassification:
-    def __init__(self):
-        pass
-    def dataCleaning(df):
-        pass
-    def featureEmbedding(df):
-        pass
-    def featureEmbedding2(df):
-        pass
-    def buildModel(df):
-        pass
-    def classification(df):
-        pass
-    def evaluation(df):
-        pass
+#load the raw data from the data folder
 
-if __name__ == "__main__":
-    #Initialise the classification class
-    classifier = NLPClassification()
+#clean/preprocess the raw data
+
+#embed the data with each method
+
+#train each model with each embedding
+
+#evaluate each model
