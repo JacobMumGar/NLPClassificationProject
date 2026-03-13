@@ -1,4 +1,7 @@
+from src.dataHandling.loadData import loadData
+
 #load the raw data from the data folder
+df = loadData()
 
 #clean/preprocess the raw data
 
